@@ -26,8 +26,8 @@ Before running the tests, ensure you have the following installed:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/armaancheema484/playwright-test-suite.git
+   cd playwright-test-suite
    ```
 2. Install dependencies:
    ```bash
