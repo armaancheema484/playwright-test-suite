@@ -22,7 +22,7 @@ Before running the tests, ensure you have the following installed:
    npm install @playwright/test
    ```
 
-## Setup
+## Setup & Run
 
 1. Clone the repo:
    ```bash
@@ -38,10 +38,11 @@ Before running the tests, ensure you have the following installed:
    npx playwright test
    ```
    OR
+   
    ```bash
    npx playwright test --debug
    ```
-4. View the Test Report
+5. View the Test Report
    ```bash
    npx playwright show-report
    ```
