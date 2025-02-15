@@ -1,0 +1,6 @@
+ECHO is on.
+node_modules/
+test-results/
+playwright-report/
+.env
+*.log
